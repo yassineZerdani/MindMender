@@ -1,5 +1,4 @@
 package com.psybot.JSONREQRES;
-
 public class SigninRequest {
     private  String username;
     private  String password;
